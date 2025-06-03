@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zahin Azmaeen Digital Marketing Specialist</h1>
 <h3 align="center">I’m a digital marketing strategist with 5+ years of experience, specializing in SEO strategies that drive meaningful, long-term results. From technical audits and keyword research to content strategy and link building, I’ve helped brands grow their organic traffic by up to 300% and significantly improve search visibility in highly competitive niches. I’m hands-on with tools like Ahrefs, SEMrush, Screaming Frog, and Google Search Console, and I love turning data into actionable SEO insights. I approach SEO holistically—balancing algorithmic best practices with real human search intent—to improve rankings, enhance UX, and boost conversions. Whether optimizing a large enterprise site or scaling a startup, I focus on building ethical, sustainable SEO strategies that generate real business outcomes.</h3>
 
-<p align="left"> <a href="https://x.com/zahinazmaeenseo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/zahinazmaeenseo" height="30" width="40" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahin-azmaeen-digital-marketing&label=Profile%20views&color=0e75b6&style=flat" alt="zahin-azmaeen-digital-marketing" /> </p>
 
