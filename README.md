@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahin-azmaeen-digital-marketing&label=Profile%20views&color=0e75b6&style=flat" alt="zahin-azmaeen-digital-marketing" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/zahinazmaeenseo" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/zahinazmaeenseo?logo=twitter&style=for-the-badge" alt="https://x.com/zahinazmaeenseo" /></a> </p>
+<p align="left"> <a href="https://x.com/zahinazmaeenseo" target="blank"><img src="https://x.com/zahinazmaeenseo?logo=twitter&style=for-the-badge" alt="https://x.com/zahinazmaeenseo" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://zahinazmaeenseo.wixsite.com/zahindigitalmarketer](https://zahinazmaeenseo.wixsite.com/zahindigitalmarketer)
 
